@@ -11,3 +11,7 @@ data/raw/generation/
 data/interim/site_generation/
 data/interim/*.parquet
 data/processed/*.parquet
+
+# Model checkpoints - large binaries, regenerable from the notebook + logged
+# training history; the small CSV training logs are still tracked.
+models/**/*.pt
