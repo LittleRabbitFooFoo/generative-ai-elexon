@@ -74,14 +74,12 @@ dictionary_id,fuel_type,hull_status,split
 10122,NPSHYD,interior,train
 10123,NPSHYD,interior,train
 10125,NPSHYD,interior,train
-10128,NUCLEAR,boundary,train
 10130,NUCLEAR,interior,val
 10131,NUCLEAR,interior,train
 10133,NUCLEAR,interior,train
 10134,NUCLEAR,interior,train
 10136,NUCLEAR,interior,train
 10138,NUCLEAR,interior,test
-10139,NUCLEAR,interior,train
 10143,PS,interior,train
 10144,PS,interior,train
 10145,PS,interior,train
