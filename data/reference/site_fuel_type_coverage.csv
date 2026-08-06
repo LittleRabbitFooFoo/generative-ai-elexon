@@ -1,5 +1,5 @@
 fuel_type,boundary,interior,total
-WIND,8,103,111
+WIND,8,104,112
 CCGT,0,38,38
 NPSHYD,0,13,13
 OCGT,1,11,12
@@ -8,4 +8,3 @@ COAL,0,5,5
 BIOMASS,0,4,4
 PS,0,4,4
 RECIPROCATING,0,3,3
-Wind,0,1,1
