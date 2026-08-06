@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .venv/
 test.ipynb
+
+# Bulk raw pull and derived cache - CSVs under data/raw/generation/ are the
+# source of truth but too large/numerous for git; parquet is a regenerable
+# convenience cache, not source of truth.
+data/raw/generation/
+data/interim/site_generation/
+data/interim/*.parquet
+data/processed/*.parquet
