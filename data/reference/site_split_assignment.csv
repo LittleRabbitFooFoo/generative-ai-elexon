@@ -10,9 +10,6 @@ dictionary_id,fuel_type,hull_status,split
 10010,BIOMASS,interior,train
 10011,COAL,interior,train
 10011,OCGT,interior,train
-10012,COAL,interior,train
-10012,OCGT,interior,train
-10013,BIOMASS,interior,train
 10014,CCGT,interior,train
 10014,COAL,interior,train
 10014,OCGT,interior,train
@@ -47,7 +44,6 @@ dictionary_id,fuel_type,hull_status,split
 10057,CCGT,interior,train
 10058,CCGT,interior,test
 10059,CCGT,interior,val
-10064,CCGT,interior,val
 10065,CCGT,interior,train
 10066,CCGT,interior,train
 10067,CCGT,interior,train
